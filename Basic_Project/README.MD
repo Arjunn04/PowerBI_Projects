@@ -135,7 +135,7 @@ Top customers contribute significantly:
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 
 * Power BI
 * DAX (Data Analysis Expressions)
