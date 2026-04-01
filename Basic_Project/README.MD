@@ -21,6 +21,13 @@ This dashboard solves these challenges by providing **real-time, visual insights
 
 ---
 
+##  Dashboard Preview
+
+<p align="center">
+  <img src="image.png" width="900"/>
+</p>
+
+
 ##  Key Insights 
 
 ### 1️ Revenue Performance
@@ -183,9 +190,4 @@ This project demonstrates:
 
 ---
 
-## 📸 Dashboard Preview
-
-<p align="center">
-  <img src="image.png" width="900"/>
-</p>
 
