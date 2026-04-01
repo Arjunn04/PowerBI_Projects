@@ -183,5 +183,9 @@ This project demonstrates:
 
 ---
 
+## 📸 Dashboard Preview
 
+<p align="center">
+  <img src="image.png" width="900"/>
+</p>
 
