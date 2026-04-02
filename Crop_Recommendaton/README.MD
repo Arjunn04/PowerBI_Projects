@@ -10,7 +10,7 @@ The dashboard not only predicts the best crop but also explains **why it is suit
 ##  Dashboard Preview
 
 <p align="center">
-  <img src="dashboard.png" width="900"/>
+  <img src="Dashboard SS.png" width="900"/>
 </p>
 
 
