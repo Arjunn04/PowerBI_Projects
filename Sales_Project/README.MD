@@ -10,6 +10,9 @@ The dashboard enables stakeholders to make **data-driven decisions** by providin
 
 ## 📷 Dashboard Preview
 
+<p align="center">
+  <img src="DashboardSS.png" width="900"/>
+</p>
 
 
 ---
