@@ -18,7 +18,7 @@ The dashboard is designed with a **multi-page architecture**, enabling users to 
   <img src="https://github.com/Arjunn04/PowerBI_Projects/blob/main/Sales%20and%20Customer%20Intelligence/Dashboard_Screenshots/MainDashboard.png" width="900"/>
 </p>
 
-###  Product Deep Dive
+###  Product & Category Deep Dive
 
 <p align="center">
   <img src="https://github.com/Arjunn04/PowerBI_Projects/blob/main/Sales%20and%20Customer%20Intelligence/Dashboard_Screenshots/Product%26Category.png" width="900"/>
@@ -27,13 +27,13 @@ The dashboard is designed with a **multi-page architecture**, enabling users to 
 ###  Customer Analysis
 
 <p align="center">
-  <img src="DashboardSS.png" width="900"/>
+  <img src="https://github.com/Arjunn04/PowerBI_Projects/blob/main/Sales%20and%20Customer%20Intelligence/Dashboard_Screenshots/Customer%26Returns.png" width="900"/>
 </p>
 
 ###  Drillthrough Page
 
 <p align="center">
-  <img src="DashboardSS.png" width="900"/>
+  <img src="https://github.com/Arjunn04/PowerBI_Projects/blob/main/Sales%20and%20Customer%20Intelligence/Dashboard_Screenshots/ProductDetails.png" width="900"/>
 </p>
 
 ---
