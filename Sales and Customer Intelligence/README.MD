@@ -21,7 +21,7 @@ The dashboard is designed with a **multi-page architecture**, enabling users to 
 ###  Product Deep Dive
 
 <p align="center">
-  <img src="DashboardSS.png" width="900"/>
+  <img src="https://github.com/Arjunn04/PowerBI_Projects/blob/main/Sales%20and%20Customer%20Intelligence/Dashboard_Screenshots/Product%26Category.png" width="900"/>
 </p>
 
 ###  Customer Analysis
