@@ -8,6 +8,14 @@ The dashboard enables users to **track academic trends, identify performance gap
 
 ---
 
+##  Dashboard Preview
+
+<p align="center">
+  <img src="https://github.com/Arjunn04/PowerBI_Projects/blob/main/Sales%20and%20Customer%20Intelligence/Dashboard_Screenshots/MainDashboard.png" width="900"/>
+</p>
+
+---
+
 ##  Objectives
 
 * Analyze **student academic performance** across multiple subjects
